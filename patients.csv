@@ -1,0 +1,11 @@
+name,email,age,gender,condition,blood_pressure,glucose_level
+"john doe",johndoe@email.com,45,Male,Hypertension,145,120
+"jane smith",JANESMITH@email.com,30,Female,Diabetes,130,180
+"alice brown",alicebrown@email.com,25,Female,Flu,118,95
+"bob wilson",bobwilson@email.com,50,Male,Hypertension,150,110
+"eve davis",evedavis@email.com,40,Female,Asthma,125,100
+"michael johnson",mjohnson@email.com,60,Male,Diabetes,140,200
+"sarah lee",sarahlee@email.com,35,Female,Flu,115,90
+"david king",davidking@email.com,55,Male,Hypertension,155,130
+"grace adams",graceadams@email.com,28,Female,Asthma,120,85
+"peter clark",peterclark@email.com,32,Male,Flu,122,92

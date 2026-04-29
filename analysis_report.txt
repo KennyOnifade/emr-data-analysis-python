@@ -1,0 +1,16 @@
+EMR ANALYSIS REPORT
+====================
+
+Total Patients: 10
+Average Age: 40.0
+
+Condition Counts:
+- Hypertension: 3
+- Flu: 3
+- Diabetes: 2
+- Asthma: 2
+
+Risk Level Distribution:
+- High Risk: 4
+- Medium Risk: 4
+- Low Risk: 2
