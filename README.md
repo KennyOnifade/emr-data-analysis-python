@@ -25,11 +25,17 @@ This project simulates a basic Electronic Medical Record (EMR) data analysis sys
 - Medium Risk Patients: 4
 - Low Risk Patients: 2
 
-## 📷 Visualizations
-The project generates the following charts:
-- `condition_distribution.png`
-- `risk_distribution.png`
-- `age_distribution.png`
+- ## 📷 Visualizations
+- The project generates the following charts:
+- 
+### Condition Distribution
+![Condition Chart](condition_distribution.png)
+
+### Risk Level Distribution
+![Risk Chart](risk_distribution.png)
+
+### Age Distribution
+![Age Chart](age_distribution.png)
 
 ## 📂 Project Files
 - `emr_capstone.py` — Main Python script
