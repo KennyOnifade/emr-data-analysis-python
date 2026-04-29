@@ -27,7 +27,6 @@ This project simulates a basic Electronic Medical Record (EMR) data analysis sys
 
 - ## 📷 Visualizations
 - The project generates the following charts:
-- 
 ### Condition Distribution
 ![Condition Chart](condition_distribution.png)
 
