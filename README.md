@@ -27,13 +27,13 @@ This project simulates a basic Electronic Medical Record (EMR) data analysis sys
 
 - ## 📷 Visualizations
 - The project generates the following charts:
-### Condition Distribution
+### 📊 Condition Distribution
 ![Condition Chart](condition_distribution.png)
 
-### Risk Level Distribution
+### 📊 Risk Level Distribution
 ![Risk Chart](risk_distribution.png)
 
-### Age Distribution
+### 📊 Age Distribution
 ![Age Chart](age_distribution.png)
 
 ## 📂 Project Files
