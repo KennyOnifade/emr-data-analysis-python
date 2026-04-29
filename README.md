@@ -49,9 +49,6 @@ This project simulates a basic Electronic Medical Record (EMR) data analysis sys
 - How to classify patient risk levels using Python logic
 - How to create visualizations with Matplotlib
 - How to export analysis results into a report
+- Structuring a complete data analysis workflow  
 
-## 🔮 Future Improvements
-- Use a larger healthcare dataset
-- Connect the project to a database
-- Build a simple web dashboard
-- Add machine learning for patient risk prediction
+- ## ✍️ Author: [Kehinde Onifade](https://github.com/KennyOnifade)
